@@ -1,1 +1,2 @@
 pushing new text file alone to git hub
+changing to clone checking
